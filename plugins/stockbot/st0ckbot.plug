@@ -1,0 +1,9 @@
+[Core]
+Name = St0ckBot
+Module = st0ckbot
+
+[Documentation]
+Description = A Telegram bot that fetches changes in your trust funds and stocks.
+
+[Python]
+Version = 2+
