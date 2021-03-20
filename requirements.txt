@@ -6,7 +6,7 @@ certifi==2017.4.17
 cffi==1.10.0
 colorama==0.3.7
 colorlog==2.10.0
-cryptography==3.2
+cryptography==3.3.2
 daemonize==2.4.7
 dnspython==1.15.0
 dnspython3==1.15.0
